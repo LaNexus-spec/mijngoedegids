@@ -1,0 +1,12 @@
+{
+  "name": "MijnGoedeGids",
+  "short_name": "MijnGoedeGids",
+  "description": "Een vriendelijk kompas voor je dag.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2F4ED",
+  "theme_color": "#7A9472",
+  "lang": "nl-NL"
+}
